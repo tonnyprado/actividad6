@@ -1,5 +1,5 @@
 # Actividad 6. TICTACTOE JUEGO DEL GATO
-8 Puzzle
+JUEGO DEL GATO
 
 
             UNIVERSIDAD DE COLIMA
